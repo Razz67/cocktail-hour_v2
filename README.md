@@ -1,6 +1,8 @@
 # Per Scholas RTT-2022-26 Mid-Mod Project
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Netlify Deployment Link: https://master--aquamarine-basbousa-d79c21.netlify.app/
+
+![cocktail-hour](https://user-images.githubusercontent.com/6307334/199000883-f546de56-664f-4623-967f-88306f69b5bc.png)
 
 ## Minimum Project Requirements
 <ul>
@@ -20,6 +22,19 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
   <li>Use Local StorageLinks to an external site. to store some of your application data in the browser</li>
   <li>Install axiosLinks to an external site. (npm install axios) and use it to read external APIs</li>
   <li>Use a CSS Framework (like BootstrapLinks to an external site.) to style part of your application</li>
+</ul>
+
+## Dependencies
+<ul>
+  <li>create-react-app</li>
+  <li>@reduxjs/toolkit</li>
+  <li>bootstrap</li>
+  <li>react-bootstrap</li>
+  <li>react-redux</li>
+  <li>react-spinners</li>
+  <li>styled-components</li>
+  <li>react-router-dom</li>
+  <li>Material Design v5.3.45 cdn</li>
 </ul>
 
 
