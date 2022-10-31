@@ -37,4 +37,7 @@ Netlify Deployment Link: https://master--aquamarine-basbousa-d79c21.netlify.app/
   <li>Material Design v5.3.45 cdn</li>
 </ul>
 
+# API
+https://www.thecocktaildb.com/api.php
+
 
