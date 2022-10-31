@@ -43,6 +43,7 @@ export function NonAlcohol() {
 
 	return (
 		<div className="container">
+		<h1>Non-Alcoholic Cocktails</h1>
 			<div className="row row-cols-1 row-cols-md-3 g-4">
 				{modifiedCocktail.map((item) => {
 					const { id, name, image } = item;

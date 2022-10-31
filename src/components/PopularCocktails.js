@@ -45,6 +45,7 @@ export const PopularCocktailList = () => {
 
 	return (
 		<div className="container">
+		<h1>Popular Cocktails</h1>
 			<div className="row row-cols-1 row-cols-md-3 g-4">
 				{modifiedCocktail.map((item) => {
 					const { id, name, image, glass, info } = item;
