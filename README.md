@@ -2,7 +2,12 @@
 
 Netlify Deployment Link: https://master--aquamarine-basbousa-d79c21.netlify.app/
 
+
+## Landing Page
 ![cocktail-hour](https://user-images.githubusercontent.com/6307334/199000883-f546de56-664f-4623-967f-88306f69b5bc.png)
+
+## Details Page
+![details page](https://user-images.githubusercontent.com/6307334/199023756-54a2efdb-23ae-40a5-a48b-293ba75a72fc.png)
 
 ## Minimum Project Requirements
 <ul>
@@ -40,4 +45,15 @@ Netlify Deployment Link: https://master--aquamarine-basbousa-d79c21.netlify.app/
 # API
 https://www.thecocktaildb.com/api.php
 
+# Challenges
+Learning how to use redux toolkit
+Deploying to Netlify
 
+# Future Goals
+Create a button in my search form with a handler to dispatch the data
+Developing a way to get the hamburger menu to function more consistenly
+Better UI design
+
+
+# Templates for About and Blog pages
+https://www.bootdey.com/
