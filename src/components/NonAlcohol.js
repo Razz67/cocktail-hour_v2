@@ -14,7 +14,7 @@ export function NonAlcohol() {
 
 	useEffect(() => {
 		dispatch(NonAlcoholCocktails(id));
-	}, [id]);
+	}, [dispatch, id]);
 
 	useEffect(() => {
 		if (cocktails) {
