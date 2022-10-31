@@ -9,8 +9,7 @@ export function NonAlcohol() {
 	const { cocktails, loading } = useSelector((state) => ({ ...state.app }));
 	const [modifiedCocktail, setModifiedCoctail] = useState([]);
 	const dispatch = useDispatch();
-    const { id } = useParams();
-
+	const { id } = useParams();
 
 	useEffect(() => {
 		dispatch(NonAlcoholCocktails(id));
@@ -19,8 +18,7 @@ export function NonAlcohol() {
 	useEffect(() => {
 		if (cocktails) {
 			const newCocktails = cocktails.map((item) => {
-				const { idDrink, strDrink, strDrinkThumb } =
-					item;
+				const { idDrink, strDrink, strDrinkThumb } = item;
 
 				return {
 					id: idDrink,
@@ -65,5 +63,4 @@ export function NonAlcohol() {
 			</div>
 		</div>
 	);
-};
-
+}

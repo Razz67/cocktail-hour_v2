@@ -12,7 +12,7 @@ export const PopularCocktailList = () => {
 
 	useEffect(() => {
 		dispatch(PopularCocktails());
-	}, []);
+	}, [dispatch]);
 
 	useEffect(() => {
 		if (cocktails) {
