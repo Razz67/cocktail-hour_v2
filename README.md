@@ -1,4 +1,5 @@
 # Per Scholas RTT-2022-26 Mid-Mod Project
+A simple cocktail search app
 
 Netlify Deployment Link: https://master--aquamarine-basbousa-d79c21.netlify.app/
 
@@ -53,6 +54,7 @@ Deploying to Netlify
 Create a button in my search form with a handler to dispatch the data
 Developing a way to get the hamburger menu to function more consistenly
 Better UI design
+Try to use Axios in my application
 
 
 # Templates for About and Blog pages
